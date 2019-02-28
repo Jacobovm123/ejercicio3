@@ -9,7 +9,7 @@ package exelejercicio3;
  *
  * @author Jacobo
  */
-public class Exelejercicio3 {
+public class exelejercicio3 {
 
     /**
      * @param args the command line arguments
